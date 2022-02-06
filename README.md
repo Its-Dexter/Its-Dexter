@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dexter
+- 👀 I’m interested in FrontEnd Development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to reach me luaihani1@gmail.com
